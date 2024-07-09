@@ -1,7 +1,8 @@
 package com.example.demo.domain.model;
 
-import org.hibernate.mapping.List;
 import jakarta.persistence.*;
+
+import java.util.List;
 
 @Entity(name = "tb_user")
 public class User {
