@@ -1,0 +1,97 @@
+{"properties": [
+  {
+    "name": "spring.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.show-sql'"
+  },
+  {
+    "name": "spring.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.show-sql'"
+  },
+  {
+    "name": "spring.open-in-view",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.open-in-view'"
+  },
+  {
+    "name": "spring.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.properties.hibernate.format_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.properties.hibernate.format_sql'"
+  },
+  {
+    "name": "spring.properties.hibernate.format_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.properties.hibernate.format_sql'"
+  },
+  {
+    "name": "spring.console.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.console.enable'"
+  },
+  {
+    "name": "spring.console.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.console.enable'"
+  },
+  {
+    "name": "spring.console.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.console.enable'"
+  },
+  {
+    "name": "spring.console.path",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.console.path'"
+  },
+  {
+    "name": "spring.console.path",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.console.path'"
+  },
+  {
+    "name": "spring.console.settings.trace",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.console.settings.trace'"
+  },
+  {
+    "name": "spring.console.settings.trace",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.console.settings.trace'"
+  },
+  {
+    "name": "spring.console.settings.web-allow-others",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.console.settings.web-allow-others'"
+  },
+  {
+    "name": "spring.console.settings.web-allow-others",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.console.settings.web-allow-others'"
+  },
+  {
+    "name": "spring.h2.settings.trace",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.h2.settings.trace'"
+  },
+  {
+    "name": "spring.h2.console.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.h2.console.enable'"
+  },
+  {
+    "name": "spring.jpa.format_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.format_sql'"
+  }
+]}
