@@ -1,4 +1,4 @@
-package com.example.demo.domain.service.impl;
+package com.example.demo.service.impl;
 
 import java.util.NoSuchElementException;
 
@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 
 import com.example.demo.domain.model.User;
 import com.example.demo.domain.repository.UserRepository;
-import com.example.demo.domain.service.UserService;
+import com.example.demo.service.UserService;
 
 @Service
 public class UserServiceImpl implements UserService{
